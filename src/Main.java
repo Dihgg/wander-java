@@ -271,11 +271,11 @@
 public class Main {
     public static void main(String[] args) {
         /*
-        S - SINGLE RESPONSIBILITY PRINCIPLE
-        O - OPEN/CLOSED PRINCIPLE
-        L - LISKOV SUBSTITUTION PRINCIPLE
-        I - INTERFACE SEGREGATION PRINCIPLE
-        D - DEPENDENCY INVERSION PRINCIPLE
-         */
+            S - SINGLE RESPONSIBILITY PRINCIPLE
+            O - OPEN/CLOSED PRINCIPLE
+            L - LISKOV SUBSTITUTION PRINCIPLE
+            I - INTERFACE SEGREGATION PRINCIPLE
+            D - DEPENDENCY INVERSION PRINCIPLE
+        */
     }
 }
